@@ -1,1 +1,2 @@
-Second file, changed in master.. 
+Second file, changed in master..
+Also, added a line in feature1 branch.
